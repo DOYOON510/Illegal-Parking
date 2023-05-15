@@ -42,8 +42,8 @@
 
 - 시계열 예측모델인 ARIMA, Prophet을 사용하여 2022년부터 2025년까지의 자동차 등록 대수 현황을 예측을 진행해본 결과, 페이스북에서 개발한 시계열 예측모델 Prophet을 최종모델로 선정
 - 예측한 결과 2021년 자동차 등록대수를 유지하거나 증가할 것으로 결과가 도출됐으므로, 통계분석 결과에 따라 불법주정차의 단속건수 또한 유지 및 증가할 것으로 예상
-![image](https://github.com/DOYOON510/Illegal-Parking/assets/129147977/ddc2a40e-4815-455c-b4ae-40682de5bff5)
 
+![image](https://github.com/DOYOON510/Illegal-Parking/assets/129147977/ddc2a40e-4815-455c-b4ae-40682de5bff5)
 ![image](https://github.com/DOYOON510/Illegal-Parking/assets/129147977/95213091-e068-4d14-a5be-baa006e3636d)
 
 
