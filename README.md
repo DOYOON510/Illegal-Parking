@@ -1,5 +1,7 @@
 # 강서구에서 발생하는 불법주정차 해소 방안을 위한 분석 및 예측
 2022.02 ~ 2022.3 (2개월)
+[강서구 공모전 보고서.pdf](https://github.com/DOYOON510/Illegal-Parking/files/11480656/default.pdf)
+
 ## 📗 목차
   - 👨🏻‍💻 담당업무
   - ✍️ 서론
