@@ -47,13 +47,12 @@
 
 ## 🏆 결과 및 성과
 - 면허를 소지한 200명을 대상으로 설문조사를 진행한 결과, 불법주정차 문자 알림서비스 및 주차장 관련 애플리케이션을 인지하고 있는 사람이 매우 적다는 결과를 확인
-![image](https://github.com/DOYOON510/Illegal-Parking/assets/129147977/ba1daf30-c419-46c3-af0f-4a6cb5cc108a)
-
+![image](https://github.com/DOYOON510/Illegal-Parking/assets/129147977/1872b5cd-ce8a-4c3d-8f74-5d5122b1f110)
 - 단속건수에 비해 설치된 CCTV 개수가 적은 가양2동, 공항동을 포함한 5개의 지역에 CCTV증설의 필요성을 제안
-![image](https://github.com/DOYOON510/Illegal-Parking/assets/129147977/c40a5171-b90f-4eba-87a6-63c0677f2559)
+![image](https://github.com/DOYOON510/Illegal-Parking/assets/129147977/e2cba725-3c91-496d-9e4b-9dfb3dc39d82)
 
 - 기존 주정차 단속 문자알림 서비스의 개선방안을 제시
-![image](https://github.com/DOYOON510/Illegal-Parking/assets/129147977/eae59bac-c69f-49ab-8f08-855949a62de9)
+![image](https://github.com/DOYOON510/Illegal-Parking/assets/129147977/4278a70b-5a4b-4a23-8776-348c7420db00)
 
 
 ## 💡 Insight
